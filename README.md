@@ -9,7 +9,6 @@ cap6411_project3
 ├── deep_sort_pytorch # DeepSort library used for face tracking
 ├── project_3         #
 │   ├── flask_camera  # Used to stream C920 camera from Hansi's desktop to the embedded system
-│   ├── slides        # Presentation slides from the class (planning, intermediate, final)
 │   └── weights       # Trained YOLOv5S model weights to detect/recognize ('Unknown Face', 'Eric', 'Hansi')
 └── yolov5            # YOLOv5 library used for face detection/recognition
 ```
